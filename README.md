@@ -15,6 +15,9 @@ Feel free to add to these!
 
 ## Intro_to_GEE
 
+
+Accompanying video tutorial: [https://youtu.be/hNy_5nmwwqQ](https://youtu.be/hNy_5nmwwqQ)
+
 * Setting up GEE and Drive
 * Background on basic GEE terminology and worldview
 * FInding, importing, uploading, and exporting datasetes
