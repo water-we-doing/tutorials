@@ -1,7 +1,9 @@
 # Tutorials for Python and GoogleColab
 
 These are basic (and verbose) tutorials with helpful code and background for using Python in and outside of Google Colab.
+
 Made by Erica McCormick. Last updated August 18, 2022.
+
 Feel free to add to these!
 
 ## Intro_to_Colab
