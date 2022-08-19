@@ -28,3 +28,9 @@ Feel free to add to these!
 * Demo on the main use case: the StudyArea class
 * List of additional functionality.
 
+## Intro_to_Watersheds
+
+* Helpful chunks for dealing with USGS watersheds and extracting GEE data with simple plots
+* This code is all implemented in WaterPyk and might be outdated here since this tutorial is from 2021!
+
+
