@@ -6,6 +6,10 @@ Made by Erica McCormick, who learned from and got code from many other sources! 
 
 Feel free to add to these!
 
+## Github_Cloning_101
+* Make sure Python and Git are installed on your computer
+* Clone a GitHub repository onto your computer!
+
 ## Intro_to_Colab
 
 * Import packages from a variety of sources - including GitHub
