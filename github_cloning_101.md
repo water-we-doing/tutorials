@@ -1,5 +1,7 @@
 # How to Clone a GitHub Repo from the Terminal
 
+# <a href = "https://youtu.be/TD6AQRPQs3I">VIDEO TUTORIAL!</a> 
+
 The following are *very* detailed instructions to accomplish these simple tasks:
 1. Check that Python is downloaded
 2. Check that the git package is downloaded
