@@ -6,7 +6,12 @@ Made by Erica McCormick, who learned from and got code from many other sources! 
 
 Feel free to add to these!
 
+
+
 ## Github_Cloning_101
+
+Accompanying video tutorial: [https://youtu.be/TD6AQRPQs3I](https://youtu.be/TD6AQRPQs3I)
+
 * Make sure Python and Git are installed on your computer
 * Clone a GitHub repository onto your computer!
 
