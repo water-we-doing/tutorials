@@ -39,6 +39,7 @@ Accompanying video tutorial: [https://youtu.be/hNy_5nmwwqQ](https://youtu.be/hNy
 * Make common plots, perfectly formatted, with *one additional line of code*!
 * Demo on the main use case: the StudyArea class
 * List of additional functionality.
+* **extract_and_process** is an abridged waterpyk tutorial you may use as well
 
 ## Intro_to_Watersheds
 
