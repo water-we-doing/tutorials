@@ -2,9 +2,18 @@
 
 These are basic (and verbose) tutorials with helpful code and background for using Python in and outside of Google Colab.
 
-Made by Erica McCormick, who learned from and got code from many other sources! Last updated August 18, 2022.
+Made by Erica McCormick, who learned from and got code from many other sources! Last updated August 29, 2022.
 
 Feel free to add to these!
+
+
+
+## Github_Cloning_101
+
+Accompanying video tutorial: [https://youtu.be/TD6AQRPQs3I](https://youtu.be/TD6AQRPQs3I)
+
+* Make sure Python and Git are installed on your computer
+* Clone a GitHub repository onto your computer!
 
 ## Intro_to_Colab
 
