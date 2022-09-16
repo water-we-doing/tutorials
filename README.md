@@ -1,4 +1,4 @@
-# Tutorials for Python and GoogleColab
+# Tutorials for Python, GEE, and GoogleColab
 
 These are basic (and verbose) tutorials with helpful code and background for using Python in and outside of Google Colab.
 
@@ -24,6 +24,9 @@ Accompanying video tutorial: [https://youtu.be/TD6AQRPQs3I](https://youtu.be/TD6
 
 ## Intro_to_GEE
 
+To sign up for GEE for the first time:
+1. Fill out the form (https://earthengine.google.com/new_signup/)
+2. Email Dr. Rempe or Erica the email account you used to sign up for GEE
 
 Accompanying video tutorial: [https://youtu.be/hNy_5nmwwqQ](https://youtu.be/hNy_5nmwwqQ)
 
