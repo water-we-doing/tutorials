@@ -29,6 +29,7 @@ To sign up for GEE for the first time:
 2. Email Dr. Rempe or Erica the email account you used to sign up for GEE
 
 To authenticate outside of Colab (ie on the command line), follow these instructions:
+
 https://developers.google.com/earth-engine/guides/python_install
 
 Accompanying video tutorial: [https://youtu.be/hNy_5nmwwqQ](https://youtu.be/hNy_5nmwwqQ)
